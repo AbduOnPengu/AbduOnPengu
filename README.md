@@ -1,13 +1,5 @@
 <h2 data-importer="text" align="left">YOLO!</h2>
 
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=AbduOnPengu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <img data-importer="image" align="right" height="158" src="https://media.tenor.com/stwEJrjgtwYAAAAj/wave-hi.gif"  />
 
 <div data-importer="socials" align="left">
