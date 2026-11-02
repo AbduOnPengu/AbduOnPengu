@@ -1,5 +1,3 @@
-<pr data-importer="text" align="left">YOLO!</pr>
-
 <img data-importer="image" align="right" height="158" src="https://media.tenor.com/stwEJrjgtwYAAAAj/wave-hi.gif"  />
 
 <br clear="both">
