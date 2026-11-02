@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="assets/blinking-cursor.gif" alt="Blinking Cursor, animated ASCII art" width="720">
-</p>
-
-
 <img data-importer="image" align="right" height="158" src="https://media.tenor.com/stwEJrjgtwYAAAAj/wave-hi.gif"  />
 
 <br clear="both">
